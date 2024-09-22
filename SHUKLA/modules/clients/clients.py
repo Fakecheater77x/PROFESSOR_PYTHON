@@ -109,12 +109,12 @@ async def run_async_clients():
     await app.start()
     LOGGER.info("Userbot Started.")
     try:
-        await app.send_message(LOG_GROUP_ID, "**sʜᴜᴋʟᴀ ᴜsᴇʀʙᴏᴛ ɪs ᴀʟɪᴠᴇ**")
+        await app.send_message(LOG_GROUP_ID, "**ᴘʀᴏғᴇssᴏʀ ᴜsᴇʀʙᴏᴛ ɪs ᴀʟɪᴠᴇ**")
     except:
         pass
     try:
-        await app.join_chat("MASTIWITHFRIENDSXD")
-        await app.join_chat("SHIVANSH474")
+        await app.join_chat("PROFESSOR_UPDATES")
+        await app.join_chat("PROFESSOR_NETWORKs")
     except:
         pass
     if SESSION_STRING:
@@ -126,8 +126,8 @@ async def run_async_clients():
         except:
             pass
         try:
-            await app.join_chat("MASTIWITHFRIENDSXD")
-            await app.join_chat("SHIVANSH474")
+            await app.join_chat("PROFESSOR_UPDATES")
+            await app.join_chat("PROFESSOR_NETWORKs")
         except:
             pass
     LOGGER.info("Starting Helper Robot ...")
