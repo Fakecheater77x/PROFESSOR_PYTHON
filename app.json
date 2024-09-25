@@ -8,17 +8,17 @@
         "telegram-music-bot",
         "telegram-video-bot"
     ],
-    "repository": "https://github.com/itzshukla/STRANGER-OPUSERBOT2.0",
+    "repository": "https://github.com/Fakecheater77x/PROFESSOR_PYTHON",
     "stack": "container",
     "env": {
         "API_ID": {
             "description": "Enter your api id here.",
-            "value": "29308061",
+            "value": "28795512",
             "required": true
         },
         "API_HASH": {
             "description": "Enter your api hash here.",
-            "value": "462de3dfc98fd938ef9c6ee31a72d099",
+            "value": "c17e4eb6d994c9892b8a8b6bfea4042a",
             "required": true
         },
         "BOT_TOKEN": {
@@ -39,7 +39,7 @@
           "OWNER_USERNAME": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "SHIVANSH39"
+            "value": "PROFESSOR_77X"
         },
         "STRING_SESSION": {
             "description": "Enter your pyrogram v2 string session here.",
