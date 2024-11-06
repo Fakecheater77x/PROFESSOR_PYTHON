@@ -58,7 +58,7 @@ async def ping(client: Client, message: Message):
     uptime = await _human_time_duration(int(uptime_sec))
     await message.delete()
     await r.edit(
-        f" ™°‌ 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐏𝐀𝐏𝐀 \n\n"
+        f" ™°‌ 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 \n\n"
         f"𝐏ɪɴɢ  ⁂ {ping * 1000:.3f}ᴍs\n"
         f"𝐔ᴘᴛɪᴍᴇ  ⁂ {uptime}\n"
         f"𝐎ᴡɴᴇʀ ⁂ {client.me.mention}\n"
