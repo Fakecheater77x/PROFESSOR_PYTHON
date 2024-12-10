@@ -435,11 +435,11 @@ RAID = [
 ]
 
 
-GRP = "@STRANGERXWORLD|@MASTIWITHFRIENDSXD"
+GRP = "@|@"
 
 GROUP = [-1001778120979, -1002006121442]
 
-VERIFIED_USERS = [6919199044, 6762113050]
+VERIFIED_USERS = [6919199044, 6101855267]
 
 Owners = "@PROFESSOR_77X"
 
@@ -499,4 +499,4 @@ PORM = [
         "https://telegra.ph/file/a8bf6c6df8a48e4a306ca.jpg",
         "https://telegra.ph/file/af9e3f98da0bd937adf6e.jpg",
 ]
-OneWord = [ "ᴀᴊᴀ", "ᴛᴇʀɪ", "ᴍᴀᴀ", "ᴋɪɪ", "ᴄʜᴜᴛ", "ғᴀᴀᴅ", "ᴅᴜɴɢᴀᴀ", "ʜɪᴊᴅᴇᴇ", "ᴛᴇʀᴀᴀ", "ʙᴀᴀᴘ", "HᴜU", "ᴋɪᴅxxxx", "sᴘᴇᴇᴅᴅ", "ᴘᴀᴋᴀᴅ", "ʙʜᴇɴ ᴋᴇ ʟᴀᴜᴅᴇ", "AA ʙᴇᴛᴀ", "ᴀᴀɢʏᴀ", "ᴛᴇʀɪ", "ᴍᴀᴀ ", "ᴄʜᴏᴅɴᴇ", "ᴀʙ", "ᴛᴇʀɪ ", "ᴍᴀᴀᴀ", "ᴄʜᴜᴅᴇɢɪ", "ᴋᴜᴛᴛᴇᴇ", "ᴋɪɪ", "ᴛᴀʀᴀʜ", "ʙᴇᴛᴀ", "ᴛᴇʀɪ", "ᴍᴀᴀ", "ᴋᴇ", "ʙʜᴏsᴅᴇ", "ᴍᴇ", "ᴊʙʟ", "ᴋᴇ", "sᴘᴇᴀᴋᴇʀ", "ᴅᴀᴀʟ", "ᴋᴀʀ", "ʙᴀsss", "ʙᴏᴏsᴛᴇᴅ", "sᴏɴɢ", "sᴜɴᴜɴɢᴀ", "ᴘᴜʀɪ", "ʀᴀᴀᴛ", "ʟᴀɢᴀᴛᴀʀ", "ᴛᴇʀɪ", "ᴍᴀᴀᴀ", "ᴋᴇ", "sᴀᴛʜ", "sᴇxx", "ᴋᴀʀᴜɴɢᴀ", "ᴛᴇʀɪ", "ᴍᴀᴀ", "ᴋᴇ", "ʙᴏᴏʙs", "ᴅᴀʙᴀᴜɴɢᴀ","ʀᴀɴᴅɪ ʙᴀᴀᴘ ʙᴏʟ","ᴛᴇʀᴀ","ʙᴀᴀᴘ","ʜᴜ","ᴍᴀᴅʜᴇʀᴄʜᴏᴅ","ʜɪsʀᴇ","ᴊᴜsᴛ ᴄᴀʟʟ ᴍᴇ ᴘʀᴏғᴇssᴏʀ ᴅᴀᴅᴅʏ","ʀᴀɴᴅɪ","PILEE","TERI","MAA","KAA","BHOSDAA","MARU","SUAR","KEE","CHODE","TERI","MAAA","KEEE","NUDES","BECHUNGA","RANDI","KEE","PILLE","TERI","MAAA","CHODU","SUAR","KEEE","PILEE","TERIII","MAAA","DAILYY","CHUDTTI","HAII","MADHARCHOD","AUKAT","BANAA","LODE","TERAA","BAAP","HUU","TERI","GFF","KAA","BHOSDAA","MARUU","MADHARCHOD","TERI ","NANAI","KAA","CHUTT","MARU","TERII","BEHEN","KAAA","BHOSDAA","MARU","RANDII","KEEE","CHODE","TERI","DADI","KAAA","BOOR","GARAM","KARR","TERE","PUREE","KHANDAN","KOOO","CHODUNGAA","BAAP","SEE","BAKCHODI","KAREGAA","SUARR","KEEE","PILLEE","NAAK","MEEE","NETAA","BAAP","KOO","KABHII","NAAH","BOLNAA","BETAA","CHUSS","LEEE","MERAA","LODAA","JAISE","ALUU","KAAA","PAKODAA","TERI","MAAA","BEHEN","GFF","NANI","DIIN","RAAT","SOTEE","JAGTEE","PELTAA","HUUU","LODEE","CHAAR","CHAWNII","GHODEE","PEEE","TUMM","MEREE","LODEE","PEE","TERI","MAA","KAAA","BOOBS","DABATA HU"]
+OneWord = [ "Aja", "Teri", "madherchod", "zindaa", "ho", "teri", "maaa ki chut", "ʜɪᴊᴅᴇᴇ", "ᴛᴇʀᴀᴀ", "ʙᴀᴀᴘ", "HᴜU", "ᴋɪᴅxxxx", "sᴘᴇᴇᴅᴅ", "ᴘᴀᴋᴀᴅ", "ʙʜᴇɴ ᴋᴇ ʟᴀᴜᴅᴇ", "AA ʙᴇᴛᴀ", "ᴀᴀɢʏᴀ", "ᴛᴇʀɪ", "ᴍᴀᴀ ", "ᴄʜᴏᴅɴᴇ", "ᴀʙ", "ᴛᴇʀɪ ", "ᴍᴀᴀᴀ", "ᴄʜᴜᴅᴇɢɪ", "professor", "ᴋe", "lmmd se", "ʙᴇᴛa", "ᴛᴇʀɪ", "ᴍᴀᴀ", "ᴋᴇ", "ʙʜᴏsᴅᴇ", "ᴍᴇ", "ᴊʙʟ", "ᴋᴇ", "sᴘᴇᴀᴋᴇʀ", "ᴅᴀᴀʟ", "ᴋᴀʀ", "ʙᴀsss", "ʙᴏᴏsᴛᴇᴅ", "sᴏɴɢ", "sᴜɴᴜɴɢᴀ", "ᴘᴜʀɪ", "ʀᴀᴀᴛ", "ʟᴀɢᴀᴛᴀʀ", "ᴛᴇʀɪ", "ᴍᴀᴀᴀ", "ᴋᴇ", "sᴀᴛʜ", "sᴇxx", "ᴋᴀʀᴜɴɢᴀ", "ᴛᴇʀɪ", "ᴍᴀᴀ", "ᴋᴇ", "ʙᴏᴏʙs", "ᴅᴀʙᴀᴜɴɢᴀ","ʀᴀɴᴅɪ ʙᴀᴀᴘ ʙᴏʟ","ᴛᴇʀᴀ","ʙᴀᴀᴘ","ʜᴜ","ᴍᴀᴅʜᴇʀᴄʜᴏᴅ","ʜɪsʀᴇ","ᴊᴜsᴛ ᴄᴀʟʟ ᴍᴇ ᴘʀᴏғᴇssᴏʀ ᴅᴀᴅᴅʏ","ʀᴀɴᴅɪ","PILEE","TERI","MAA","KAA","BHOSDAA","MARU","SUAR","KEE","CHODE","TERI","MAAA","KEEE","NUDES","BECHUNGA","RANDI","KEE","PILLE","TERI","MAAA","CHODU","SUAR","KEEE","PILEE","TERIII","MAAA","DAILYY","CHUDTTI","HAII","MADHARCHOD","AUKAT","BANAA","LODE","TERAA","BAAP","HUU","TERI","GFF","KAA","BHOSDAA","MARUU","MADHARCHOD","TERI ","NANAI","KAA","CHUTT","MARU","TERII","BEHEN","KAAA","BHOSDAA","MARU","RANDII","KEEE","CHODE","TERI","DADI","KAAA","BOOR","GARAM","KARR","TERE","PUREE","KHANDAN","KOOO","CHODUNGAA","BAAP","SEE","BAKCHODI","KAREGAA","SUARR","KEEE","PILLEE","NAAK","MEEE","NETAA","BAAP","KOO","KABHII","NAAH","BOLNAA","BETAA","CHUSS","LEEE","MERAA","LODAA","JAISE","ALUU","KAAA","PAKODAA","TERI","MAAA","BEHEN","GFF","NANI","DIIN","RAAT","SOTEE","JAGTEE","PELTAA","HUUU","LODEE","CHAAR","CHAWNII","GHODEE","PEEE","TUMM","MEREE","LODEE","PEE","TERI","MAA","KAAA","BOOBS","DABATA HU"]
